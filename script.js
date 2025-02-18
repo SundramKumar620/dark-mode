@@ -2,7 +2,7 @@ function darkbutton(color){
     document.body.style.backgroundColor = color;
 }
 
-const themebutton = document.getElementById('themebtn')
+const themebutton = document.getElementById('thembtn')
 
 themebutton.addEventListener('click',() => {
 
